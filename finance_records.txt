@@ -1,0 +1,14 @@
+2023-03-01,Income,Salary,2500.00
+2023-03-02,Expense,Food,100.50
+2023-03-03,Expense,Utilities,75.00
+2023-03-05,Income,Freelancing,450.00
+2023-03-07,Expense,Rent,800.00
+2023-03-10,Expense,Entertainment,60.00
+2023-03-12,Expense,Groceries,150.00
+2023-03-15,Expense,Transport,50.00
+2023-03-18,Income,Investments,200.00
+2023-03-20,Expense,Food,120.75
+2023-03-22,Expense,Healthcare,90.00
+2023-03-25,Income,Side Project,300.00
+2023-03-28,Expense,Education,200.00
+2023-03-30,Expense,Utilities,80.00
